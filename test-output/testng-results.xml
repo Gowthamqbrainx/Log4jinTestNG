@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25498" started-at="2020-02-13T09:52:38Z" finished-at="2020-02-13T09:53:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25498" started-at="2020-02-13T09:52:38Z" finished-at="2020-02-13T09:53:04Z">
+      <class name="qbrainx.test.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:qbrainx.test.LoginTest@337d0578]" name="setup" is-config="true" duration-ms="13720" started-at="2020-02-13T15:22:38Z" finished-at="2020-02-13T15:22:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="facebooklogintest()[pri:0, instance:qbrainx.test.LoginTest@337d0578]" name="facebooklogintest" duration-ms="80" started-at="2020-02-13T15:22:52Z" finished-at="2020-02-13T15:22:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebooklogintest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:qbrainx.test.LoginTest@337d0578]" name="setup" is-config="true" duration-ms="11668" started-at="2020-02-13T15:22:52Z" finished-at="2020-02-13T15:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="facebooktest()[pri:0, instance:qbrainx.test.LoginTest@337d0578]" name="facebooktest" duration-ms="17" started-at="2020-02-13T15:23:04Z" finished-at="2020-02-13T15:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebooktest -->
+      </class> <!-- qbrainx.test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
